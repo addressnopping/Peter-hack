@@ -7,7 +7,7 @@ Run "gradlew setupDecompWorkspace"
 and run "gradlew build"
 
 #Just one thing:
-i didn't tested it before, but I'm gonna test it. I will update the readme.md when I test the client :D
+i didn't test it before, but I'm gonna test it. I will update the readme.md when I test the client :D
 
 #Special thanks:
 Thank you all of the phobos developers and gopro336 for the clean buildable src!
